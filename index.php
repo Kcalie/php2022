@@ -74,7 +74,7 @@ $x = 2;
 $y = 2;
 
 $puissance = $x ^ $y;
-echo 'puissance : ' .$puissance.'<br/>';
+echo 'puissance : ' .$puissance.'<br/>'; // affiche 0 ???????
 ?>
         <br/>
         <br/>
