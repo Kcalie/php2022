@@ -68,7 +68,17 @@
     echo 'Nouvelle valeur soustraction : '.$soustraction. '<br/>';
     echo 'Nouvelle valeur multiplication : '.$multiplication. '<br/>';
     ?>
-<br/>
+<br/><br/>
+<!--boucle tant que-->
+<?php 
+$nombre = 33;
+$i = $nombre + 1;
+while ($i <= ($nombre + 10))
+echo $i++;
+?>
+
+<br/><br/>
+<!--puissance-->
 <?php 
 $x = 2;
 $y = 2;
